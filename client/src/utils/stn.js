@@ -1,3 +1,3 @@
 
 
-export const domain = 'http://localhost:8000'
+export const domain = 'https://acos-beck-end.vercel.app'
