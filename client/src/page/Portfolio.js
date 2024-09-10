@@ -21,7 +21,6 @@ const Portfolio = () => {
         const { data } = await axios.get(`${domain}/api/project/categories`);
         setCategory(data);
         setLoading(false);
-        console.log(data);
       } catch (err) {
         setLoading(false);
         setError(err.message);
@@ -50,7 +49,6 @@ const Portfolio = () => {
         setProject(data);
         setData(data);  // Set data to all projects initially
         setLoading(false);
-        console.log(data);
       } catch (err) {
         setLoading(false);
         setError(err.message);
