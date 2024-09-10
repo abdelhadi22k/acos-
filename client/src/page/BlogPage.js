@@ -18,7 +18,6 @@ const BlogPage = () => {
         const { data } = await axios.get(`${domain}/api/blog`);
         setBlog(data);
         setLoading(false);
-        console.log(data);
       } catch (err) {
         setLoading(false);
         setError(err.message);
