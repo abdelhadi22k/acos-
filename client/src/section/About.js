@@ -95,10 +95,10 @@ const About = () => {
           </div>
           <div>
             <h1>+3</h1>
-            <h6>Experiences</h6>
+            <h6>3 years Experience</h6>
           </div>
           <div>
-            <h1>05</h1>
+            <h1>+5</h1>
             <h6>Team members</h6>
           </div>
         </Container>
