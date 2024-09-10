@@ -43,7 +43,7 @@ const Services = () => {
             them attractive.
             </p>
 
-            <a href="#FAQs" className="mainBtn2">
+            <a href="#Contact" className="mainBtn2">
               let's start
             </a>
           </div>
@@ -67,7 +67,7 @@ const Services = () => {
             with the latest technologies
             </p>
 
-            <a href="#FAQs" className="mainBtn2">
+            <a href="#Contact" className="mainBtn2">
               let's start
             </a>
           </div>
@@ -93,7 +93,7 @@ const Services = () => {
             </p>
 
 
-            <a href="#FAQs" className="mainBtn2">
+            <a href="#Contact" className="mainBtn2">
               let's start
             </a>
           </div>
