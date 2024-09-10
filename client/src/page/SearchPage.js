@@ -75,7 +75,6 @@ export default function SearchPage() {
                 const { data } = await axios.get(`${domain}/api/blog/categories`);
                 setCategories(data);
             } catch (err) {
-                console.log(err);
             }
         };
         fetchCategories();
