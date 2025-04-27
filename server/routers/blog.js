@@ -11,7 +11,7 @@ router.get("/", async (req, res) => {
   res.send(blog);
 });
 
-const PAGE_SIZE = 3;
+const PAGE_SIZE = 4;
 
 router.get(
   "/search",
